@@ -22,64 +22,54 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
+ZAMANI TARTMAK
+
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Bu projede bir kum saatinden kum akarken kum saatinin ağırlığının değişimi gözlemlenecektir. Normalde kum saatini oluşturan toplam kütle (kum saati camı+ kaidesi+ kumun kütlesi) değişmediği halde, kum saatinin ağırlığının kum akarken değişiklik göstermesi çok beklenir bir durum değildir. Ancak böyle bir fenomenin varlığı bilinmektedir. Bu konu araştırılırken aşağıdaki yöntem takip edilmiştir. Öncelikle bir kum saati çift taraflı bir laboratuvar terazisine konulur. İlk konumda kum alt haznede sabit durumdayken kum saatinin ağırlığı ölçülür. Daha sonra kum saati ters çevrilerek, üst haznedeki kum aşağı hazneye akarken kum saatinin ağırlığı tekrar ölçülür ve bu ağırlık ilk ölçülen ağırlık ile kıyaslanır. Bu ağırlık ilk ağırlık ile aynı mıdır, daha az yada daha fazla mıdır, bu gözlemler video kayıt altına alınır. Video kayıt sayesinde anlık değişimlerin doğru takip edilmesi sağlanmış olur. Gözlemlenen ağrılık ölçümlerinin incelenir ve bunlardaki değişimlerin nedenlerinin fiziksel açıklamalarının yapılması için ölçümler analiz edilir ve sonuç raporu hazırlanır. 
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Kum saatinde kumların akışı sırasında farkedilir bir ağırlık değişiminin olduğu herkes tarafından bilinmektedir. Bizim amacımız bu fenomenin hangi sebeplere bağlı olarak gerçekleştiğini belirlemek ve bir deney düzeneği kurarak hipotezlerimizi doğrulamaktır. 
+Hipotezimiz:
+Kum saatinde kum akarken çarpma kuvvetinin etkisi ve havada asılı kalan kum taneciklerinin ağırlığına bağlı olarak kum saatinin ağırlığı anlık olarak değişir. 
+
+Yaptığımız literatür taramalarında bu fenomenin ortaya çıkmasına sebep olan nedenlerle ilgili çeşitli deneylerin daha önceden yapılmış olduğunu farkettik. 
+
+Örneğin; bir deney düzeneğinde kum saati su dolu bir boru içine konulup akış başladığında suyun kaldırma kuvvetinden yararlanarak kum saatinin yükselip alçalması gözlenmiştir. 
+Kaynakça:
+
+https://www.europhysicsnews.org/articles/epn/pdf/2010/03/epn2010413p25.pdf
+
+https://youtube/kctdo6rQZbY
+
+https://youtube/JIVrQQ5jRlc
+
+http://demoweb.physics.ucla.edu/content/110-weight-hourglass
+
 # Materyal ve Yöntem (Experimental Setup)
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+Bu deneyi yapmaktaki amacımız kum saatinde son kum taneciklerinin zemine vuruşu sırasında meydana gelen ağırlık artışını gözlemlemek ve nedenini tespit etmektir.
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+Çalışma yöntemimizde belirlediğimiz adımlar şu şekildedir:
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
+İlk olarak bir problem seçtik. Seçtiğimiz problemde amacımız kum saatinde akışı süresince meydana gelen ağırlık değişimlerinin sebeplerini araştırmak ve bu ağırlık değişimlerini gözlemleyerek sayısal veriler elde etmektir. Sonraki adımımız ise internetten topladığımız kaynaklardan yararlanarak bir deney düzeneği oluşturmak ve gözlemlerimizi gerçekleştirmektir. Bu gözlemler ve araştırmalar ışığında bir hipotez oluşturarak tahminler yaptık. Deney süreci boyunca elde ettiğimiz bulguları bir araya getirdik.
 
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
+Çalışma grubumuz:
 
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
+Merve Baştopçu, Rumeysa Altıntaş ve Sevde Öksüz'den oluşmaktadır. 
 
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
+Deneyimizi yaparken internette bulduğumuz fotoğraflardan (kaynakçada bulunmaktadır) yararlanarak kendi deney düzeneğimizi hazırladık. Deney düzeneğimizde ağırlık artışını daha net gözlemleyebilmek için kendimiz pet şişe kullanarak bel kısmı daha geniş bir kum saati yaptık ve hassas terazi kullandık.
+
+İnternette yaptığımız araştırmalarda veri toplama aracı olarak kullandığımız kaynakları giriş bölümünde bulunan kaynakçada belirttik. Bu araştırmalar sonucu kum saatinin ağırlığındaki değişimin newtonun ikinci yasasına bağlı olarak (F= dp/dt) gerçekleştiğini öğrendik. Kum akışı sırasında havada asılı kalan tanecikler ağırlığa bir katkı yapmazken düşen taneciklerin çarpma hızı ağırlığı arttırıyordu bu sayede akış sırasında eşit olan ağırlık son kum taneciklerinin düşmesi ile artıyordu.
+
+
+Çalışmalarımızı fizik laboratuvarında hassas terazi ve kum saati ile kurduğumuz deney düzeneğinde gözlemledik. Bu deney düzeneğinde hassas tartımızda kendi yaptığımız kum saatinin ağırlığını ölçtük daha sonra da çevirerek son kum taneciklerinin çarpması ile meydana gelen ağırlık artışını gözlemledik. Deney süreci boyunca kum taneciklerinin akışı esnasında ağırlık sabit kalırken son kum taneciklerinin düşmesi ile ağırlık artmıştır ve bu da hipotezimizi kanıtlamaktadır. 
+
 
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
+Yaptığımız deneyde hassas teraziye koyduğumuz kum saati akış yokkan yani tüm kum alt haznede durağanken ölçülen ağırlık 809 gr dır. Akış başladığı andan itibaren ağırlık 808 gr a düşer. Fakat son kum taneciklerinin zemine çarpma kuvvetinin etkisi ile birlikte ağırlıkta anlık olarak artış gözlenlemiş ve tekrar 809 gr değeri ölçülmüştür.
 
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
+Kum saatinin dar yerinde bir sütun halinde serbest akan kum tanecikleri tartıdaki ağırlığa dahil olmaz ama kumun zemine yaptığı çarpma kuvveti ilave bir ağırlığa neden olur bu nedenle akış sırasında ağırlık sabittir. son kum tanecikleri de zemine düştüğünde eksik ağırlık kalmaz ama çarpma kuvvetinin etkisi devam eder bu nedenle kum saati son aşamada hassas terazide anlık olarak daha ağır ölçülür.
+
+Hipotezimizi desteklemek için ilerde yapacağımız çalışmalar kum saati belinin yarıçapında değişiklikler yapmak ve farklı boyutlara bağlı olarak meydana gelecek ağırlık değişimlerini gözlemlemek olacaktır.
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
